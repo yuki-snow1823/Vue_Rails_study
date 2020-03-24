@@ -1,0 +1,24 @@
+{
+  "name": "todo-web",
+  "version": "1.0.0",
+  "description": "My exceptional Nuxt.js project",
+  "author": "yuki-snow1823",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.9.5",
+    "axios": "^0.19.2",
+    "firebase": "^7.12.0",
+    "material-design-icons-iconfont": "^5.0.1",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/dotenv": "^1.4.1",
+    "@nuxtjs/vuetify": "^1.0.0"
+  }
+}
